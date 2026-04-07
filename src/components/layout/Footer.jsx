@@ -7,7 +7,7 @@ export default function Footer() {
       <div className="container-max section-padding">
         <div className="grid grid-cols-1 md:grid-cols-3 gap-10">
           <div>
-            <img src="/assets/common/Logo.jpg" alt="BEA Klik" className="h-12 mb-4 rounded" />
+            <img src="/assets/common/Logo.jpg" alt="BEA Klik" className="h-10 mb-4 rounded" />
             <h4 className="font-bold mb-2">PT Budaya Estetika Anugerah Production</h4>
             <p className="text-white/60 text-sm leading-relaxed">
               Jl. Marinir Tengah Blk. AD No.22, Pondok Kelapa, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta, Indonesia

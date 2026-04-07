@@ -22,7 +22,7 @@ export default function MobileDrawer({ open, onClose, items, pathname }) {
             className="fixed top-0 right-0 bottom-0 w-72 bg-white z-50 shadow-2xl flex flex-col"
           >
             <div className="flex items-center justify-between p-4 border-b border-warm-gray">
-              <img src="/assets/common/Logo.jpg" alt="BEA Klik" className="h-8 rounded" />
+              <img src="/assets/common/Logo.jpg" alt="BEA Klik" className="h-7 rounded" />
               <button onClick={onClose} className="p-2 rounded-lg hover:bg-warm-gray" aria-label="Close menu"><FiX size={20} /></button>
             </div>
             <nav className="flex-1 py-4 overflow-y-auto">

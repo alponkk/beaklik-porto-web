@@ -35,14 +35,14 @@ export default function Header() {
     <>
       <header className={`fixed top-0 left-0 right-0 z-50 transition-all duration-300 ${scrolled ? 'bg-white/95 backdrop-blur shadow-md' : 'bg-transparent'}`}>
         <div className="container-max flex items-center justify-between px-4 sm:px-6 lg:px-8 h-16 lg:h-20">
-          <Link to="/" className="flex items-center gap-2 h-10 lg:h-12">
+          <Link to="/" className="flex items-center gap-2 h-8 lg:h-10">
             <AnimatePresence mode="wait">
               {showLogo && (
                 <motion.img
                   key="nav-logo"
                   src="/assets/common/Logo.jpg"
                   alt="BEA Klik"
-                  className="h-10 lg:h-12 rounded"
+                  className="h-8 lg:h-10 rounded"
                   initial={{ opacity: 0, scale: 0.3, rotate: -15 }}
                   animate={{ opacity: 1, scale: 1, rotate: 0 }}
                   exit={{ opacity: 0, scale: 0.3, rotate: 15 }}
