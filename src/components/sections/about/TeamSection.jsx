@@ -15,7 +15,7 @@ export default function TeamSection() {
           {team.map((t, i) => (
             <motion.div key={i} whileHover={{ scale: 1.03, y: -5 }} className="bg-white rounded-card overflow-hidden shadow-sm text-center group">
               <div className="overflow-hidden">
-                <img src={t.image} alt={t.name} className="w-full h-56 sm:h-64 object-cover transition-transform duration-500 group-hover:scale-105" loading="lazy" />
+                <img src={t.image} alt={t.name} className="w-full aspect-[3/4] object-cover object-top transition-transform duration-500 group-hover:scale-105" loading="lazy" />
               </div>
               <div className="p-4">
                 <h3 className="font-bold text-dark text-sm">{t.name}</h3>
