@@ -1,0 +1,10 @@
+# robots.txt for https://beaklik-porto-web.vercel.app
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://beaklik-porto-web.vercel.app/sitemap.xml
+
+# Disallow admin or private paths
+Disallow: /api/
