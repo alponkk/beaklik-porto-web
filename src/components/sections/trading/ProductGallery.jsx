@@ -12,7 +12,7 @@ export default function ProductGallery() {
   return (
     <section className="section-padding bg-warm-gray">
       <div className="container-max">
-        <SectionTitle label="Products" title="Galeri Produk" />
+        <SectionTitle label="Produk" title="Galeri Produk" />
         <div className="flex justify-center gap-2 mb-8">
           {tabs.map(tab => (
             <button key={tab} onClick={() => setActive(tab)}

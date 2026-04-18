@@ -2,7 +2,7 @@ import { motion } from 'framer-motion'
 import useScrollReveal from '../../../hooks/useScrollReveal'
 
 const reasons = [
-  { icon: '/assets/icons/one_stop.png', title: 'One Stop Event Solution', desc: 'Semua kebutuhan event Anda dalam satu tempat', color: '#FF6B2C' },
+  { icon: '/assets/icons/one_stop.png', title: 'Solusi Event Satu Pintu', desc: 'Semua kebutuhan event Anda dalam satu tempat', color: '#FF6B2C' },
   { icon: '/assets/icons/flexibility.png', title: 'Fleksibel untuk Semua Jenis Acara', desc: 'Dari intimate gathering hingga festival besar', color: '#FFBE2E' },
   { icon: '/assets/icons/professional_services.png', title: 'Berpengalaman & Terpercaya', desc: 'Tim profesional dengan pengalaman luas', color: '#2EC4B6' },
   { icon: '/assets/icons/event_dsgn.png', title: 'Desain Acara yang Berdampak', desc: 'Konsep kreatif yang meninggalkan kesan mendalam', color: '#E84545' },
@@ -19,7 +19,7 @@ export default function WhyUsSection() {
 
       <div className="container-max relative z-10">
         <motion.div ref={ref} initial={{ opacity: 0, y: 40 }} animate={isVisible ? { opacity: 1, y: 0 } : {}} transition={{ duration: 0.6 }}>
-          <p className="label-text text-center mb-2">Why Us</p>
+          <p className="label-text text-center mb-2">Kenapa Kami</p>
           <h2 className="text-3xl sm:text-4xl font-bold text-white mb-10 text-center">Mengapa Memilih Kami?</h2>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
             {reasons.map((r, i) => (

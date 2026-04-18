@@ -4,7 +4,7 @@ import useScrollReveal from '../../../hooks/useScrollReveal'
 const missions = [
   'Menyelenggarakan event berkualitas tinggi yang memadukan nilai budaya dan estetika',
   'Mengembangkan produksi hiburan yang inspiratif dan membangun karakter',
-  'Memberikan solusi teknologi (IT Services) yang fungsional, kreatif, dan terintegrasi',
+  'Memberikan solusi teknologi (Layanan IT) yang fungsional, kreatif, dan terintegrasi',
   'Menghadirkan produk alami yang ramah lingkungan dan menyehatkan',
 ]
 

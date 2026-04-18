@@ -9,9 +9,9 @@ export default function EntertainmentPage() {
   return (
     <motion.main initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0 }} transition={{ duration: 0.3 }}>
       <PageHero
-        pageTitle="ENTERTAINMENT · BEA Klik"
-        title="Entertainment Production"
-        subtitle="Film & music video production, Theater, dance, and live performances, Talent & artist management, Creative digital content production"
+        pageTitle="HIBURAN · BEA Klik"
+        title="Produksi Hiburan"
+        subtitle="Produksi film & video musik, Teater, tari, dan pertunjukan langsung, Manajemen talent & artis, Produksi konten digital kreatif"
         theme="entertainment"
         icon="🎬"
       />

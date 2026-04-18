@@ -11,7 +11,7 @@ export default function SouvenirSection() {
   return (
     <section className="section-padding bg-warm-gray">
       <div className="container-max">
-        <SectionTitle label="Souvenir" title="Suvenir Berbasis Produk Alam & Budaya Lokal" />
+        <SectionTitle label="Suvenir" title="Suvenir Berbasis Produk Alam & Budaya Lokal" />
         <div className="relative">
           <button onClick={() => scroll(-1)} className="absolute left-0 top-1/2 -translate-y-1/2 z-10 bg-white/90 hover:bg-white shadow-md rounded-full p-2" aria-label="Scroll left">
             <FiChevronLeft size={20} />

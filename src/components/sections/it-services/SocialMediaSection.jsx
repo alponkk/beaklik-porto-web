@@ -1,10 +1,9 @@
 import { motion } from 'framer-motion'
-import { FiTarget, FiEdit3, FiHeart, FiBarChart2 } from 'react-icons/fi'
+import { FiEdit3, FiHeart, FiBarChart2 } from 'react-icons/fi'
 import SectionTitle from '../../ui/SectionTitle'
 import useScrollReveal from '../../../hooks/useScrollReveal'
 
 const smServices = [
-  { title: 'Riset Pasar, Kompetitor dan Strategi', desc: 'Analisis mendalam untuk strategi media sosial yang tepat sasaran.', icon: FiTarget, color: '#FF6B2C' },
   { title: 'Manajemen Akun dan Pembuatan Konten', desc: 'Pengelolaan akun profesional dan konten kreatif yang engaging.', icon: FiEdit3, color: '#2EC4B6' },
   { title: 'Membangun Hubungan dan Loyalitas', desc: 'Strategi engagement untuk membangun komunitas yang loyal.', icon: FiHeart, color: '#FFBE2E' },
   { title: 'Laporan Kinerja dan Evaluasi', desc: 'Monitoring dan evaluasi performa media sosial secara berkala.', icon: FiBarChart2, color: '#E84545' },
@@ -16,9 +15,9 @@ export default function SocialMediaSection() {
   return (
     <section className="section-padding bg-warm-white">
       <div className="container-max">
-        <SectionTitle label="Social Media" title="Layanan Manajemen Media Sosial" />
+        <SectionTitle label="Media Sosial" title="Layanan Manajemen Media Sosial" />
         <motion.div ref={ref} initial={{ opacity: 0, y: 40 }} animate={isVisible ? { opacity: 1, y: 0 } : {}} transition={{ duration: 0.6 }}
-          className="grid grid-cols-1 sm:grid-cols-2 gap-6">
+          className="grid grid-cols-1 sm:grid-cols-3 gap-6">
           {smServices.map((s, i) => {
             const Icon = s.icon
             return (

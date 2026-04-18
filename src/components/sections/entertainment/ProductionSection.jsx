@@ -74,7 +74,7 @@ export default function ProductionSection() {
   return (
     <section className="section-padding bg-warm-white">
       <div className="container-max">
-        <SectionTitle label="Film & Video" title="Produksi Film & Video" subtitle="Solusi Kreatif untuk Produksi Video & Entertainment Anda" />
+        <SectionTitle label="Film & Video" title="Produksi Film & Video" subtitle="Solusi Kreatif untuk Produksi Video & Hiburan Anda" />
         <motion.div ref={ref} initial={{ opacity: 0, y: 40 }} animate={isVisible ? { opacity: 1, y: 0 } : {}} transition={{ duration: 0.6 }}
           className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-5">
           {videos.map((v, i) => (

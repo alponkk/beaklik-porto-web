@@ -16,8 +16,8 @@ export default function WeddingSection() {
             <ImageCarousel images={images} />
           </div>
           <div className="order-1 lg:order-2">
-            <p className="label-text mb-2">Private Events</p>
-            <h2 className="text-3xl sm:text-4xl font-bold text-dark mb-4">Weddings, Receptions & Private Events</h2>
+            <p className="label-text mb-2">Acara Privat</p>
+            <h2 className="text-3xl sm:text-4xl font-bold text-dark mb-4">Pernikahan, Resepsi & Acara Privat</h2>
             <p className="text-dark-text text-sm leading-relaxed mb-6">
               Kami merancang momen spesial Anda dengan sentuhan personal dan profesional. Dari pernikahan intim hingga resepsi megah, setiap detail dirancang untuk menciptakan kenangan yang tak terlupakan.
             </p>

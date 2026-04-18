@@ -7,9 +7,9 @@ import MobileDrawer from './MobileDrawer'
 const navItems = [
   { label: 'Beranda', path: '/' },
   { label: 'Event Organizer', path: '/event-organizer' },
-  { label: 'Entertainment', path: '/entertainment' },
-  { label: 'IT Service', path: '/it-services' },
-  { label: 'Trading', path: '/trading' },
+  { label: 'Hiburan', path: '/entertainment' },
+  { label: 'Layanan IT', path: '/it-services' },
+  { label: 'Produk Kami', path: '/trading' },
   { label: 'Tentang Kami', path: '/about' },
   { label: 'Hubungi Kami', path: '/contact' },
 ]

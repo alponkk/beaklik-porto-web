@@ -26,8 +26,8 @@ export default function Footer() {
               {[
                 { icon: <FaTiktok />, href: 'https://tiktok.com/@beaklik' },
                 { icon: <FaYoutube />, href: 'https://youtube.com/@BudayaEstetikaProduction' },
-                { icon: <FaFacebook />, href: 'https://facebook.com/BudayaEstetikaProduction' },
-                { icon: <FaInstagram />, href: 'https://instagram.com/BudayaEstetikaAnugerah' },
+                { icon: <FaFacebook />, href: 'https://www.facebook.com/share/1B3h3hRpHf/?mibextid=wwXIfr' },
+                { icon: <FaInstagram />, href: 'https://www.instagram.com/bea_klik/' },
               ].map((s, i) => (
                 <a key={i} href={s.href} target="_blank" rel="noopener noreferrer" className="w-10 h-10 rounded-full bg-white/10 flex items-center justify-center text-white/70 hover:bg-primary hover:text-white transition-all">
                   {s.icon}

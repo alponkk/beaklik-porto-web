@@ -21,7 +21,7 @@ export default function BroadcastSection() {
   return (
     <section className="section-padding bg-warm-white">
       <div className="container-max">
-        <SectionTitle label="Broadcast" title="Layanan Broadcast & Multimedia" />
+        <SectionTitle label="Siaran" title="Layanan Broadcast & Multimedia" />
         <motion.div ref={ref} initial={{ opacity: 0, y: 40 }} animate={isVisible ? { opacity: 1, y: 0 } : {}} transition={{ duration: 0.6 }}
           className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-4 mb-10">
           {broadcastServices.map((s, i) => (
@@ -33,7 +33,7 @@ export default function BroadcastSection() {
           ))}
         </motion.div>
         <div className="bg-warm-gray rounded-card p-6 sm:p-8">
-          <h3 className="font-bold text-dark mb-4 text-center">Professional Roles</h3>
+          <h3 className="font-bold text-dark mb-4 text-center">Peran Profesional</h3>
           <div className="flex flex-wrap justify-center gap-2">
             {roles.map((r, i) => (
               <span key={i} className="bg-white px-4 py-2 rounded-full text-sm text-dark-text font-medium shadow-sm">{r}</span>

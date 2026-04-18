@@ -17,7 +17,7 @@ export default function NaturalSaltSection() {
             <img src="/assets/trading/garam2.jpg" alt="Garam 2" className="rounded-card w-full h-48 object-cover" loading="lazy" />
           </div>
           <div>
-            <p className="label-text mb-2">Natural Salt</p>
+            <p className="label-text mb-2">Garam Alami</p>
             <h2 className="text-3xl sm:text-4xl font-bold text-dark mb-4">Garam Alami Perawatan Tubuh</h2>
             <div className="mb-4">
               <h4 className="font-semibold text-dark text-sm mb-2">Manfaat:</h4>

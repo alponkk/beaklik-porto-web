@@ -9,8 +9,8 @@ export default function TradingPage() {
   return (
     <motion.main initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0 }} transition={{ duration: 0.3 }}>
       <PageHero
-        pageTitle="TRADING · BEA Klik"
-        title="Produk Alami"
+        pageTitle="PRODUK KAMI · BEA Klik"
+        title="Produk Kami"
         subtitle="Produk Herbal & Perawatan Tubuh Alami, Media Tanam Berbasis Sumber Daya Alam"
         theme="trading"
         icon="🌿"

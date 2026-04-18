@@ -12,7 +12,7 @@ export default function AboutSection() {
           <p className="label-text mb-4">Tentang BEA</p>
           <h2 className="text-3xl sm:text-4xl font-bold text-dark mb-6">PT Budaya Estetika Anugerah Production</h2>
           <p className="text-dark-text text-sm sm:text-base leading-relaxed mb-8">
-            Didirikan pada tahun 2022 di Jakarta, PT Budaya Estetika Anugerah Production adalah perusahaan kreatif multidisiplin yang bergerak di bidang event organizer, entertainment production, IT services, dan trading produk alami. Kami menggabungkan seni, teknologi, dan alam untuk menciptakan pengalaman yang bermakna.
+            Didirikan pada tahun 2022 di Jakarta, PT Budaya Estetika Anugerah Production adalah perusahaan kreatif multidisiplin yang bergerak di bidang event organizer, produksi hiburan, layanan IT, dan produk alami. Kami menggabungkan seni, teknologi, dan alam untuk menciptakan pengalaman yang bermakna.
           </p>
           <div className="bg-gradient-to-r from-primary to-accent-red rounded-card p-6 sm:p-8 text-white">
             <h3 className="font-bold text-lg mb-2">Rencana Masa Depan</h3>
