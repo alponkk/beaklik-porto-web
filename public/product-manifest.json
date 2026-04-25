@@ -1,0 +1,184 @@
+{
+  "generatedAt": "2026-04-25T12:25:39.699Z",
+  "brands": {
+    "cocoveen": {
+      "name": "Cocoveen",
+      "tagline": "Produk Ramah Lingkungan Berbasis Kelapa",
+      "products": [
+        {
+          "id": "cocoveen-cocopeat-kids",
+          "name": "Cocopeat Kids",
+          "description": "Edukasi anak untuk belajar menanam dari benih bijian dengan praktis dalam satu kemasan dari bahan tanpa plastik.",
+          "features": [],
+          "image": "/assets/product/cocoveen/Cocopeat%20Kids/WhatsApp%20Image%202026-04-18%20at%203.47.11%20PM.jpeg",
+          "folder": "Cocopeat Kids",
+          "brand": "cocoveen"
+        },
+        {
+          "id": "cocoveen-cocosheet-50-x-50-cm",
+          "name": "Cocosheet 50 x 50 Cm",
+          "description": "Lembaran fiber dari sabut kelapa yang dipress dengan lem karet",
+          "features": [],
+          "image": "/assets/product/cocoveen/Cocosheet%2050%20x%2050%20Cm/WhatsApp%20Image%202026-04-18%20at%203.40.43%20PM.jpeg",
+          "folder": "Cocosheet 50 x 50 Cm",
+          "brand": "cocoveen"
+        },
+        {
+          "id": "cocoveen-cocoveen-cocopeat-loose-1-liter",
+          "name": "Cocoveen Cocopeat Loose 1 liter",
+          "description": "Siap tanam, gembur, dan ramah lingkungan. Cocoveen Cocopeat Loose 1 liter ini langsung siap pakai—tanpa direndam—memberi media berpori yang menjaga kelembapan sekaligus sirkulasi udara agar akar tumbuh sehat. Praktis untuk semai bibit, repotting akhir pekan, hingga kebun balkon urban gardening-mu.",
+          "features": [
+            "Praktis tanpa press: langsung pakai, tanpa direndam atau dikembangkan",
+            "Tekstur halus, bersih, dan tidak menggumpal—rumah nyaman bagi akar",
+            "Low EC (rendah garam)  lebih aman untuk akar tanaman",
+            "Daya simpan air baik, drainase tetap baik—tanaman tetap lembap tanpa becek",
+            "Ramah lingkungan—eco-friendly untuk hidup berkelanjutan"
+          ],
+          "image": "/assets/product/cocoveen/Cocoveen%20Cocopeat%20Loose%201%20liter/WhatsApp%20Image%202026-04-18%20at%203.45.50%20PM.jpeg",
+          "folder": "Cocoveen Cocopeat Loose 1 liter",
+          "brand": "cocoveen"
+        },
+        {
+          "id": "cocoveen-cocoveen-cocopeat-premium-1-kg",
+          "name": "Cocoveen Cocopeat Premium 1 kg",
+          "description": "Cocoveen Cocopeat Premium 1 kg menghadirkan dua tekstur (halus & kasar) untuk media tanam organik yang gembur, berpori, dan ramah lingkungan. Low EC & rendah tanin, siap pakai untuk media semai, pot tanaman hias, hingga kebun sayur rumahan—dari benih hingga panen, tanaman tumbuh subur dengan rasa puas merawat alam.",
+          "features": [
+            "Drainase optimal—media tetap gembur, akar tidak mudah busuk",
+            "Sirkulasi udara baik—cocok untuk anggreng, kaktus & sukulen, tanaman epifit",
+            "Menyimpan air & nutrisi lebih lama—ideal untuk persemaian",
+            "Low EC & rendah tanin—lebih stabil untuk tanaman",
+            "Tekstur halus membantu tanah tetap remah, berpori, dan drainase baik"
+          ],
+          "image": "/assets/product/cocoveen/Cocoveen%20Cocopeat%20Premium%201%20kg/WhatsApp%20Image%202026-04-18%20at%203.41.45%20PM.jpeg",
+          "folder": "Cocoveen Cocopeat Premium 1 kg",
+          "brand": "cocoveen"
+        },
+        {
+          "id": "cocoveen-cocoveen-cocopeat-press-block-1-kg",
+          "name": "Cocoveen Cocopeat Press Block 1 Kg",
+          "description": "Ringkas, praktis, dan siap bantu akar berkembang. Cocoveen Cocopeat Press Block 1 kg adalah media tanam organik yang gembur, remah, dan berpori—mendukung drainase baik, aerasi, serta pertumbuhan akar kuat. Cocok untuk media semai bibit, pot tanaman hias, hingga kebun sayur rumahan.",
+          "features": [
+            "Low EC (rendah garam): lebih aman untuk akar, minim risiko stres nutrisi",
+            "Serat halus (cocopeat): remah, tidak menggumpal, mudah diatur",
+            "Retensi air & aerasi seimbang: media tetap lembap, akar tetap bernapas",
+            "Praktis rendam & pakai: tinggal rendam, kembang, langsung siap tanam",
+            "Organik & ramah lingkungan: pilihan eco-friendly untuk hidup berkelanjutan"
+          ],
+          "image": "/assets/product/cocoveen/Cocoveen%20Cocopeat%20Press%20Block%201%20Kg/WhatsApp%20Image%202026-04-18%20at%203.36.49%20PM.jpeg",
+          "folder": "Cocoveen Cocopeat Press Block 1 Kg",
+          "brand": "cocoveen"
+        },
+        {
+          "id": "cocoveen-cocoveen-grow-kit",
+          "name": "Cocoveen Grow Kit",
+          "description": "Start your urban jungle di rumah dengan Cocoveen Grow Kit – paket semai lengkap dengan tray semai gratis. Praktis, ramah lingkungan, dan bikin hari repotting jadi lebih menyenangkan. Cocok untuk pemula hingga edukasi anak-anak di akhir pekan.",
+          "features": [
+            "Praktis & efisien, tidak perlu beli tray semai terpisah",
+            "Cocok untuk pemula",
+            "Media mudah mengembang & digunakan",
+            "Hasil semai lebih rapi, akar tumbuh teratur",
+            "Serbaguna untuk cabai, tomat, sawi, selada, terong"
+          ],
+          "image": "/assets/product/cocoveen/Cocoveen%20Grow%20Kit/WhatsApp%20Image%202026-04-18%20at%203.43.30%20PM.jpeg",
+          "folder": "Cocoveen Grow Kit",
+          "brand": "cocoveen"
+        },
+        {
+          "id": "cocoveen-cocoveen-grow-kit-paket-menanam-polybag-25x25-cm-free-3-polybag-",
+          "name": "Cocoveen Grow Kit – Paket Menanam Polybag 25x25 cm (free 3 polybag)",
+          "description": "Cocoveen Grow Kit – Paket Menanam Polybag 25x25 cm (free 3 polybag) adalah starter kit berkebun yang praktis dan ramah lingkungan. Dengan media cocopeat organik steril dan polybag 25x25, Anda siap menanam sayur, cabai, tomat, terong, hingga bunga hias—langsung di polybag tanpa repot. Cocok untuk pemula hingga edukasi anak-anak.",
+          "features": [
+            "Media cocopeat 1 kg: organik, steril, daya simpan air tinggi",
+            "Polybag 25x25 cm: ukuran ideal untuk sayuran & bunga hias",
+            "Free 3 polybag: hemat, siap untuk beberapa tanaman",
+            "Sarung tangan berkebun: melindungi tangan tetap bersih",
+            "Solusi cepat & bersih: cocok untuk pot, polybag, atau kebun rumahan"
+          ],
+          "image": "/assets/product/cocoveen/Cocoveen%20Grow%20Kit%20%E2%80%93%20Paket%20Menanam%20Polybag%2025x25%20cm%20(free%203%20polybag)/WhatsApp%20Image%202026-04-18%20at%203.49.12%20PM.jpeg",
+          "folder": "Cocoveen Grow Kit – Paket Menanam Polybag 25x25 cm (free 3 polybag)",
+          "brand": "cocoveen"
+        },
+        {
+          "id": "cocoveen-cocoveen-pupuk-fermin-organik-5-kg",
+          "name": "Cocoveen Pupuk Fermin Organik 5 Kg",
+          "description": "Revitalisasi tanah yang lembut dan alami. Cocoveen Pupuk Fermin Organik 5 kg adalah pupuk padat hasil fermentasi bahan alami pilihan yang kaya nutrisi dan mikroorganisme. Dirancang untuk memperbaiki kesuburan tanah, mengaktifkan sinergi mikroba, dan mendukung pertumbuhan akar yang kokoh serta daun hijau pekat.",
+          "features": [
+            "Nutrisi bertahap (slow release): pelepasan nutrisi stabil untuk pemupukan rutin",
+            "Aktivasi mikroba: membantu meningkatkan aktivitas mikroorganisme baik",
+            "Media tanam lebih subur: remah seperti humus, memperbaiki struktur tanah",
+            "Aman & ramah lingkungan: formula organik pilihan",
+            "Serbaguna: cocok untuk tanaman hias, sayuran, buah, perkebunan"
+          ],
+          "image": "/assets/product/cocoveen/Cocoveen%20Pupuk%20Fermin%20Organik%205%20Kg/WhatsApp%20Image%202026-04-18%20at%203.51.19%20PM.jpeg",
+          "folder": "Cocoveen Pupuk Fermin Organik 5 Kg",
+          "brand": "cocoveen"
+        },
+        {
+          "id": "cocoveen-cocoveen-sekam-bakar-premium",
+          "name": "Cocoveen Sekam Bakar Premium",
+          "description": "Cocoveen Sekam Bakar Premium – media tanam alami yang steril, gembur, dan berpori. Membantu akar tumbuh kuat, tanaman subur, dan rutinitas berkebun terasa lebih ringan setiap akhir pekan.",
+          "features": [
+            "Steril & bebas hama: cocok untuk semai bibit dan tanaman muda",
+            "Tekstur ringan, remah, dan berpori: drainase baik, tidak mudah menggumpal",
+            "Dibakar sempurna: struktur stabil, porositas konsisten",
+            "Fleksibel: bisa dipakai tunggal atau dicampur dengan tanah, kompos, atau cocopeat",
+            "Eco-friendly: pilihan natural untuk urban gardening"
+          ],
+          "image": "/assets/product/cocoveen/Cocoveen%20Sekam%20Bakar%20Premium/WhatsApp%20Image%202026-04-18%20at%203.51.04%20PM.jpeg",
+          "folder": "Cocoveen Sekam Bakar Premium",
+          "brand": "cocoveen"
+        },
+        {
+          "id": "cocoveen-pot-bunga-coco-fiber-serabut-kelapa-",
+          "name": "Pot Bunga Coco Fiber (Serabut Kelapa)",
+          "description": "Pilihan pot alami untuk pecinta tanaman. Pot bunga coco fiber (serabut kelapa) adalah pilihan tepat untuk Anda yang menginginkan media tanam ramah lingkungan sekaligus dekoratif. Terbuat dari serabut kelapa alami yang dipadatkan.",
+          "features": [
+            "Ramah lingkungan – 100% biodegradable & eco-friendly",
+            "Sirkulasi udara & drainase baik – mencegah akar cepat busuk",
+            "Menjaga kelembaban media tanam – ideal untuk berbagai jenis tanaman",
+            "Estetik & natural look – cocok untuk dekorasi rumah, taman, maupun kafe",
+            "Kuat & tahan lama – meski berbahan alami tetap kokoh untuk pemakaian berulang"
+          ],
+          "image": "/assets/product/cocoveen/Pot%20Bunga%20Coco%20Fiber%20(Serabut%20Kelapa)/WhatsApp%20Image%202026-04-18%20at%203.47.43%20PM.jpeg",
+          "folder": "Pot Bunga Coco Fiber (Serabut Kelapa)",
+          "brand": "cocoveen"
+        },
+        {
+          "id": "cocoveen-sandal-coco-fiber-serabut-kelapa-",
+          "name": "Sandal Coco Fiber (Serabut Kelapa)",
+          "description": "Langkah nyaman dengan sentuhan alami. Sandal Coco Fiber (Serabut Kelapa) adalah sandal handmade yang dibuat dari bahan alami serabut kelapa pilihan. Hadir dengan desain sederhana namun estetik, memberikan kenyamanan sekaligus tampilan unik yang berbeda dari sandal biasa.",
+          "features": [
+            "Eco-friendly – dibuat dari bahan alami yang ramah lingkungan",
+            "Nyaman & ringan – empuk dan tidak panas saat dipakai",
+            "Kuat & tahan lama – serabut kelapa dipadatkan sehingga kokoh",
+            "Multifungsi – cocok untuk dipakai di rumah, santai di taman, atau jalan-jalan ke pantai",
+            "Estetik & unik – desain natural bernuansa tropis"
+          ],
+          "image": "/assets/product/cocoveen/Sandal%20Coco%20Fiber%20(Serabut%20Kelapa)/WhatsApp%20Image%202026-04-18%20at%203.44.41%20PM.jpeg",
+          "folder": "Sandal Coco Fiber (Serabut Kelapa)",
+          "brand": "cocoveen"
+        },
+        {
+          "id": "cocoveen-tali-serabut-kelapa-",
+          "name": "Tali (Serabut Kelapa)",
+          "description": "Solusi tali tradisional yang tahan lama. Terbuat dari 100% serabut kelapa alami (eco-friendly & biodegradable). Kuat, kokoh, dan tahan lama – ideal untuk pemakaian indoor maupun outdoor. Cocok untuk pertanian, kerajinan tangan, dekorasi rustic, hingga kebutuhan rumah tangga.",
+          "features": [
+            "Tahan cuaca & kelembapan, tetap awet di luar ruangan",
+            "Tampilan natural & estetik, memberi kesan unik untuk dekorasi",
+            "100% serabut kelapa alami, eco-friendly & biodegradable",
+            "Kuat, kokoh, dan tahan lama",
+            "Cocok untuk pertanian, kerajinan tangan, dekorasi rustic"
+          ],
+          "image": "/assets/product/cocoveen/Tali%20(Serabut%20Kelapa)/WhatsApp%20Image%202026-04-18%20at%203.48.30%20PM.jpeg",
+          "folder": "Tali (Serabut Kelapa)",
+          "brand": "cocoveen"
+        }
+      ]
+    },
+    "garam": {
+      "name": "Ocealya",
+      "tagline": "Garam Alami Perawatan Tubuh",
+      "products": []
+    }
+  }
+}

@@ -4,8 +4,9 @@
   "version": "1.0.0",
   "type": "module",
   "scripts": {
-    "dev": "vite",
-    "build": "vite build",
+    "generate-products": "node scripts/generate-product-manifest.js",
+    "dev": "node scripts/generate-product-manifest.js && vite",
+    "build": "node scripts/generate-product-manifest.js && vite build",
     "preview": "vite preview"
   },
   "engines": {

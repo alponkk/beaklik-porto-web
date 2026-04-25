@@ -3,7 +3,7 @@ import PageHero from '../components/ui/PageHero'
 import GreenIndustrySection from '../components/sections/trading/GreenIndustrySection'
 import SouvenirSection from '../components/sections/trading/SouvenirSection'
 import NaturalSaltSection from '../components/sections/trading/NaturalSaltSection'
-import ProductGallery from '../components/sections/trading/ProductGallery'
+import ProductCatalog from '../components/sections/trading/ProductCatalog'
 
 export default function TradingPage() {
   return (
@@ -18,7 +18,7 @@ export default function TradingPage() {
       <GreenIndustrySection />
       <SouvenirSection />
       <NaturalSaltSection />
-      <ProductGallery />
+      <ProductCatalog />
     </motion.main>
   )
 }
